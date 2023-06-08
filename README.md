@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Rasa Chatbot
+# RASA RPS Challenger
 
 - This chatbot allows users to play the game of rock-paper-scissors through a conversational interface.
 - It was built using the Rasa framework.
